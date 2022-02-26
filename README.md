@@ -1,3 +1,4 @@
-# readinglist
+# Reading list
 Learning Springboot
-Hello World
+
+This is a project for learning SpringBoot by following the book **Spring Boot in Action"** by Craig Walls.
